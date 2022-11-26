@@ -1,1 +1,1 @@
-this is readme file for AirtelIQ ECommerce
+Repository for Airtel IQ ECommerce hackathon
