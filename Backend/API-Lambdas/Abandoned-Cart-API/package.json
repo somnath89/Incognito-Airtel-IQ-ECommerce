@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-webhook",
+  "version": "1.0.0",
+  "description": "whatsapp-webhooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "debug": "nodemon --inspect index.js",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.0.0"
+  }
+}
